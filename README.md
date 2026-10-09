@@ -1,7 +1,3 @@
-# AI-workers Portfolio
+# Generated public portfolio
 
-이 저장소는 AI-workers 개인 작업공간에서 **공개 안전으로 선별한 근거**를 자동 추출해 만든 포트폴리오입니다.
-
-- AI가 자동 추출·정리한 후보이며, 비공개 저널·대화·고객 자료·강의 원문은 포함하지 않습니다.
-- “path-only candidate”는 공개 가능한 가능성만 포착한 상태로, 성과나 영향의 확정 근거가 아닙니다.
-- 실제 공개 페이지는 GitHub Pages를 통해 배포할 수 있습니다.
+This static site was generated from public-safe AI-workers evidence extracts. It contains no private journals, Codex session data, customer materials, or source artifacts.
