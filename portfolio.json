@@ -3,35 +3,46 @@
     {
       "title": "AI-workers Portfolio Evidence Draft",
       "date": "2026-10-09",
-      "evidence_id": "ev-20261009134104-career-proof-assets-career-asset-scan-a636757eba",
+      "evidence_id": "ev-20261009134805-career-proof-assets-career-asset-scan-8b3420201e",
+      "goal": "",
+      "next_actions": [
+        "For each High/Medium candidate, capture one raw output snapshot or observation under the vault.",
+        "For public use, create a case study only after every major claim cites an evidence id or original path.",
+        "Mark student/customer/private artifacts as internal unless explicit consent and copyright review are clear.",
+        "Prefer linking existing large artifacts by path instead of copying them into raw evidence."
+      ],
       "items": [
         {
           "match": "Medium",
           "type": "workflow infrastructure",
           "proof": "path-only candidate; not ledger-captured",
           "project": "career proof asset system",
-          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim."
+          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim.",
+          "next": "Add repeated real captures and public-ready case studies citing evidence ids."
         },
         {
           "match": "Medium",
           "type": "public-safe sample",
           "proof": "path-only candidate; not ledger-captured",
           "project": "study material generation system",
-          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim."
+          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim.",
+          "next": "Add safe public demos, quality metrics, and customer/user feedback."
         },
         {
           "match": "Medium",
           "type": "workflow infrastructure",
           "proof": "path-only candidate; not ledger-captured",
           "project": "career proof asset system",
-          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim."
+          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim.",
+          "next": "Add repeated real captures and public-ready case studies citing evidence ids."
         },
         {
           "match": "Medium",
           "type": "workflow infrastructure",
           "proof": "path-only candidate; not ledger-captured",
           "project": "career proof asset system",
-          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim."
+          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim.",
+          "next": "Add repeated real captures and public-ready case studies citing evidence ids."
         }
       ]
     }
