@@ -1,0 +1,25 @@
+{
+  "reports": [
+    {
+      "title": "AI-workers Portfolio Evidence Draft",
+      "date": "2026-10-06",
+      "evidence_id": "ev-20261006200150-career-proof-assets-career-asset-scan-0ebe32ec37",
+      "items": [
+        {
+          "match": "Medium",
+          "type": "workflow infrastructure",
+          "proof": "path-only candidate; not ledger-captured",
+          "project": "career proof asset system",
+          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim."
+        },
+        {
+          "match": "Medium",
+          "type": "public-safe sample",
+          "proof": "path-only candidate; not ledger-captured",
+          "project": "study material generation system",
+          "claim": "Candidate signal only; capture or cite direct evidence before using as a public claim."
+        }
+      ]
+    }
+  ]
+}
